@@ -25,6 +25,7 @@ noise_meter	https://pub.dev/packages/noise_meter
 syncfusion_flutter_charts	https://pub.dev/packages/syncfusion_flutter_charts
 url_launcher	https://pub.dev/packages/url_launcher
 google_fonts	https://pub.dev/packages/google_fonts
+location https://pub.dev/packages/location
 
 ```dart
 import 'package:geo_sound_monitor/Noisy.dart';
